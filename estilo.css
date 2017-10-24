@@ -1,0 +1,32 @@
+body{
+	background:pink
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	color:black;
+	font-family:Times New Roman;
+}
+#total {
+   margin: 0 auto 0 auto;
+   width:  800px;
+}
+#topo {
+   height:     60px;
+   width:      800px;
+ 
+   background: white;
+}
+
+#imgimg{
+	border: 10px solid white
+}
+
+#rodape{
+	width: 800px;
+	height: 200px;
+	background: #BA55D3	;
+	clear: both;
+	font-family:Times New Roman;
+	color: white
+}
